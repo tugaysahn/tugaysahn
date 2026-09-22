@@ -1,0 +1,12 @@
+<!--
+  ============================================================================
+  TS-utas
+  Yazar / Author : Tugay Şahin (Tugay Sahin)
+  Telif          : © 2024–2026 Tugay Şahin. Tüm hakları saklıdır.
+  ============================================================================
+  Bu dosya ve program Tugay Şahin tarafından geliştirilmiştir.
+  Kaynak kodlara izinsiz erişim, kopyalama, değiştirme, dağıtma
+  veya başka bir yapay zekâya düzenlettirme FSEK kapsamında
+  hukuka aykırıdır ve yasal işleme konu edilebilir.
+  ============================================================================
+-->
